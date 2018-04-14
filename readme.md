@@ -7,3 +7,25 @@ Aidapp's primary vision is to aid NGO's and Non-Profit Organisations by providin
 We currently work from Davis (CA) , Bangalore (IN) and  want to create a supportive and collaborative environment, so that we can learn, build and grow together and move the world forward. 
 
 Thanks, for visiting our page. Drop your mail at hello@aidapp.in 
+
+# Company details
+--------
+## Website
+http://www.aidapp.in
+## Headquarters
+Davis, California
+
+## Year founded
+2017
+
+## Company type
+Privately Held
+
+## Company size
+
+2-10 employees
+
+## Specialties
+
+Technology, Software, Machine Learning, Artificial Intelligence, Mobile First, and Fin Tech
+
